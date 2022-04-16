@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.indent{
+    text-indent: 25px;   
+}
+.center-graphic{
+    margin: auto;
+    max-width: 1000px;
+}
+.allsiteBG{
+    background-image: url('../images/Backround.jpeg');
+}
+.monospace{
+    font-family: monospace;
+    font-size: 20px;
+}
+.colorred{
+    color: red;
+}
